@@ -11,3 +11,4 @@ error_log
 access_log
 npm-debug.log
 node_modules
+mail.js
